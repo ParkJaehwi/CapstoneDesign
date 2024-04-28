@@ -28,6 +28,21 @@ const styles = StyleSheet.create({
   whiteText: {
     color: "white",
   },
+  headerText: {
+    fontSize: 20,
+    flex: 1,
+    textAlign: "center",
+  },
+  headerItem: {
+    flexDirection: 'row',
+    justifyContent: 'space-between', // 텍스트와 버튼을 각각 시작과 끝에 배치합니다.
+    alignItems: 'center',
+    marginTop: 40,
+  },
+  button: {
+    margin: 15,
+    marginBottom: 25,
+  },
 });
 
 export default styles;
