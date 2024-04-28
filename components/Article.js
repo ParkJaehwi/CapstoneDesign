@@ -5,7 +5,7 @@ import styles from "../styles";
 export default function Article() {
   return (
     <View style={[styles.article, styles.content]}>
-      <Text>Article</Text>
+      <Text>JaeHwi8cm</Text>
     </View>
   );
 }
