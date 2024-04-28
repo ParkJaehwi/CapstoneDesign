@@ -5,7 +5,7 @@ import styles from "../styles";
 export default function Article() {
   return (
     <View style={[styles.article, styles.content]}>
-      <Text>JaeHwi</Text>
+      <Text>HyunKyu</Text>
     </View>
   );
 }
